@@ -13,7 +13,7 @@
         "description": "Heroku app name, same as above entered",
         "required": true
       },
-      "HEROKU_API_KEY": {e95935a7-e790-419d-afd3-ccfc82dc2dd6
+      "HEROKU_API_KEY": {
         "description": "Heroku account api key, https://dashboard.heroku.com/account",
         "required": true
       }
