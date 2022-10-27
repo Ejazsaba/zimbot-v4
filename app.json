@@ -1,5 +1,5 @@
 {
-  "name": "Zim Bot Inc",
+  "name": "khan baba",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/zim-bot/zimbot-v4",
   "logo": "",
@@ -13,7 +13,7 @@
         "description": "Heroku app name, same as above entered",
         "required": true
       },
-      "HEROKU_API_KEY": {
+      "HEROKU_API_KEY": {e95935a7-e790-419d-afd3-ccfc82dc2dd6
         "description": "Heroku account api key, https://dashboard.heroku.com/account",
         "required": true
       }
